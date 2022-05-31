@@ -1,18 +1,18 @@
 # __Alexey Kozlov__
-
+***
 ## __Contact information__
 
 * __Location:__ Minsk, Belarus
 * __Phone:__ +375 (29) 621-40-06
 * __Email:__ alexey2snake@gmail.com
 * __GitHub:__ [Kasssper4](https://github.com/Kasssper4)
-
+***
 ## __About me__
 
 I am 18 years old, studying at the Minsk College of Electronics.
 I recently got interested in programming. I tried to learn the C language, but I needed to see what I was creating, so I decided to stay on the frontend, which I am very pleased with.
 My goals are to learn all the necessary technologies for further advancement in the field of front-end and, possibly, somewhere else.
-
+***
 ## __My strengths:__
   * Quick learner;
   * Very sociable;
@@ -20,3 +20,9 @@ My goals are to learn all the necessary technologies for further advancement in 
   * Always strive to gain new knowledge and skills;
   * Have a lot of interest in programming;
   * Very diligent.
+***
+## __Skills__
+* HTML, CSS, JS (from [code-basics](https://ru.code-basics.com), YT channels Freelancer_life_style, Brains Cloud, Vladilen Minin, Sololearn);
+* Version control system Git;
+* AdobePhotoshop;
+* Figma.
