@@ -37,3 +37,15 @@ function colourAssociation(array){
   return result;
 }
 ```
+***
+## __Work experience:__
+Nothing yet
+***
+## __Education:__
+
+__College:__ Minsk College of Electronics
+__Courses:__ [RsSchool JS/FE pre-school](https://rs.school/js/) in process, YT courses freelancer_life_style, BrainsCloud and Vladilen Minin. SoloLearn app courses (html, css, js).
+***
+## __Languages__
+* English - pre intermediate/intermediate
+* Russian - native
