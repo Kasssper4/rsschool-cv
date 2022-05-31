@@ -26,3 +26,14 @@ My goals are to learn all the necessary technologies for further advancement in 
 * Version control system Git;
 * AdobePhotoshop;
 * Figma.
+***
+## __Code example__
+
+7th kyu task with codewars:
+You are given a 2D array, composed of a colour and its 'common' association in each array element. The function you will write needs to return the colour as 'key' and association as its 'value'.
+```
+function colourAssociation(array){
+  let result = array.map(([color, meaning]) => ({[color]: meaning}));
+  return result;
+}
+```
