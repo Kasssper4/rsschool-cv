@@ -1,12 +1,16 @@
 # __Alexey Kozlov__
+
 ***
+
 ## __Contact information__
 
 * __Location:__ Minsk, Belarus
 * __Phone:__ +375 (29) 621-40-06
 * __Email:__ alexey2snake@gmail.com
 * __GitHub:__ [Kasssper4](https://github.com/Kasssper4)
+
 ***
+
 ## __About me__
 
 I am 18 years old, studying at the Minsk College of Electronics.
@@ -20,13 +24,17 @@ My goals are to learn all the necessary technologies for further advancement in 
   * Always strive to gain new knowledge and skills;
   * Have a lot of interest in programming;
   * Very diligent.
+
 ***
+
 ## __Skills__
 * HTML, CSS, JS (from [code-basics](https://ru.code-basics.com), YT channels Freelancer_life_style, Brains Cloud, Vladilen Minin, Sololearn);
 * Version control system Git;
 * AdobePhotoshop;
 * Figma.
+
 ***
+
 ## __Code example__
 
 7th kyu task with codewars:
@@ -37,15 +45,21 @@ function colourAssociation(array){
   return result;
 }
 ```
+
 ***
+
 ## __Work experience:__
 Nothing yet
+
 ***
+
 ## __Education:__
 
 __College:__ Minsk College of Electronics
 __Courses:__ [RsSchool JS/FE pre-school](https://rs.school/js/) in process, YT courses freelancer_life_style, BrainsCloud and Vladilen Minin. SoloLearn app courses (html, css, js).
+
 ***
+
 ## __Languages__
 * English - pre intermediate/intermediate
 * Russian - native
