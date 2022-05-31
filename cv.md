@@ -12,3 +12,11 @@
 I am 18 years old, studying at the Minsk College of Electronics.
 I recently got interested in programming. I tried to learn the C language, but I needed to see what I was creating, so I decided to stay on the frontend, which I am very pleased with.
 My goals are to learn all the necessary technologies for further advancement in the field of front-end and, possibly, somewhere else.
+
+## __My strengths:__
+  * Quick learner;
+  * Very sociable;
+  * Remember and understand any information well;
+  * Always strive to gain new knowledge and skills;
+  * Have a lot of interest in programming;
+  * Very diligent.
