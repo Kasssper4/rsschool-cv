@@ -128,3 +128,57 @@ main {
     text-align: justify;
     margin: 20px 0;
 }
+
+.strengths-list {
+    font-size: 20px;
+    text-align: justify;
+    list-style-type: circle;
+}
+.strengths-list > li {
+    margin: 0 0 8px 0;
+}
+
+.lang-list {
+    list-style-type: circle;
+    font-size: 20px;
+}
+.lang-list > li {
+    margin: 0 0 8px 0;
+}
+.roadmap::before {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 32px;
+    position: absolute;
+    left: -30px;
+    top: -2px;
+    background-color: #fecb00;
+    transition: ease-in-out 0.5s all;
+}
+.roadmap:hover::before,
+.roadmap:hover::after {
+    width: 35%;
+}
+.roadmap {
+    position: relative;
+    text-align: center;
+    margin: 10px 0;
+}
+.roadmap::after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 32px;
+    position: absolute;
+    right: -30px;
+    top: -2px;
+    background-color: #fecb00;
+    transition: ease-in-out 0.5s all;
+}
+.roadmap > a {
+    text-decoration: none;
+    color: #202026;
+    font-size: 20px;
+    background-color: transparent;
+}
