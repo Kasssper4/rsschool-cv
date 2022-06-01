@@ -182,3 +182,29 @@ main {
     font-size: 20px;
     background-color: transparent;
 }
+
+.code > h2 {
+    text-align: right;
+    font-weight: 600;
+    margin-top: 20px;
+}
+pre {
+    font-size: 20px;
+    margin: 20px 0;
+}
+.pre {
+    margin: 0;
+    display: flex;
+    align-self: center;
+    width: 100%;
+}
+.code {
+    display: flex;
+    flex-direction: column;
+}
+code {
+    width: 100%;
+    line-height: 22px;
+    padding: 0;
+    background: #fecb00;
+}
