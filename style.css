@@ -465,3 +465,92 @@ aside {
     padding-left: 40px;
     background-size: 30px;
 }
+
+.footer-container {
+    display: flex;
+}
+.contacts {
+    padding-left: 30px;
+    width: 30%;
+}
+.contacts > h2 {
+    color: #fff;
+    font-weight: 600;
+}
+.cont-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.cont-item {
+    padding-left: 15px;
+    color: #fecb00;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.cont-item > a {
+    position: relative;
+    text-decoration: none;
+    color: #fecb00;
+    font-size: 18px;
+    margin-bottom: 5px;
+    transition: 0.5s ease-in-out;
+}
+.cont-item > a:hover {
+    color: #fff;
+    transition: 0.5s ease-in-out;
+}
+.cont-item > a::before {
+    position: absolute;
+    content: "";
+    width: 5px;
+    background: #fecb00;
+    height: 18px;
+    top: 2px;
+    left: -45px;
+    transition: 0.5s ease-in-out all;
+}
+.discord {
+    position: relative;
+}
+.discord::before {
+    position: absolute;
+    content: "";
+    width: 5px;
+    background: #fecb00;
+    height: 40px;
+    top: 3px;
+    left: -30px;
+    transition: 0.5s ease-in-out all;
+}
+.discord:hover::before {
+    transition: ease-in-out 0.5s all;
+    width: 38px;
+    background: #fff;
+}
+.cont-item > a:hover::before {
+    transition: ease-in-out 0.5s all;
+    width: 38px;
+    background: #fff;
+}
+.footer-info {
+    background-color: #fecb00;
+    display: flex;
+    width: 70%;
+    height: 200px;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-icon {
+    display: flex;
+    align-items: center;
+}
+.footer-icon > a {
+    text-decoration: none;
+}
+.footer-icon > a > img {
+    height: 120px;
+}
+.footer-date {
+    font-size: 22px;
+}
