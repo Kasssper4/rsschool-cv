@@ -422,3 +422,46 @@ aside {
 .edu-info {
     margin-bottom: 55px;
 }
+
+.skills-header {
+    color: #fff;
+    font-weight: 600;
+}
+.skills-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+.skills-list > li {
+    color: #fecb00;
+    padding-bottom: 15px;
+}
+.icon-html {
+    background-image: url(assets/icons/html.svg);
+    background-repeat: no-repeat;
+}
+.icon-css {
+    background-image: url(assets/icons/css.svg);
+    background-repeat: no-repeat;
+}
+.icon-js {
+    background-image: url(assets/icons/javascript.svg);
+    background-repeat: no-repeat;
+}
+.icon-git {
+    background-image: url(assets/icons/github.svg);
+    background-repeat: no-repeat;
+}
+.icon-figma {
+    background-image: url(assets/icons/figma.svg);
+    background-repeat: no-repeat;
+}
+.skill-item {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    background-size: 30px;
+}
