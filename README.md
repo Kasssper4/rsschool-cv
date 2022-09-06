@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kasssper4.github.io/rsschool-cv/cv
