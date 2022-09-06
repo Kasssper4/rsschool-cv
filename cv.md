@@ -18,6 +18,22 @@ I recently got interested in programming. I tried to learn the C language, but I
 My goals are to learn all the necessary technologies for further advancement in the field of front-end and, possibly, somewhere else.
 ***
 
+## __My strengths:__
+  * Quick learner;
+  * Very sociable;
+  * Remember and understand any information well;
+  * Always strive to gain new knowledge and skills;
+  * Have a lot of interest in programming;
+  * Very diligent.
+
+***
+
+## __Skills__
+* HTML, CSS, JS (from [code-basics](https://ru.code-basics.com), YT channels Freelancer_life_style, Brains Cloud, Vladilen Minin, Sololearn);
+* Version control system Git;
+* AdobePhotoshop;
+* Figma.
+***
 
 ## __Code example__
 
